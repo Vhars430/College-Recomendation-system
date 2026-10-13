@@ -18,4 +18,4 @@ The goal of this project is to help students identify colleges where they have a
 
 
 
-(This is being done as part of my Topics in ML course and is in under process.)
+(This is in progress.)
